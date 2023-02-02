@@ -31,6 +31,7 @@ function App() {
   return (
     <div className='App'>
       <div className='logo-contenedor' >
+        <h1 className='titulo'>Autora Semprini Carolina</h1>
         <img
           src={logo}
           className='logo'
